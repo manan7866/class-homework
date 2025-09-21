@@ -10,8 +10,7 @@ load_dotenv()
 
 api_key = os.getenv("WEATHER_API_KEY")
 
-"jsum ohqm kwvo qgpf"
-"ok7y 4hpi iyh7 e7mm dzff kgxr qfm6 r2xb"
+
 now= datetime.now()
 
 @function_tool
